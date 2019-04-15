@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eozaitiero.mannheim-lacrosse.de/sitemap.xml
